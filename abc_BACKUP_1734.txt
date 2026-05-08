@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+bbabc
+=======
+qqqabc
+>>>>>>> 2179b22623fd6637941ec34ee9bd75e55f7c3e45
+def
+ghik
+asdf
+sfd
+<<<<<<< HEAD
+asdfgi
+
+asdfasasasdf
+23424
+=======
+asdf
+>>>>>>> 2179b22623fd6637941ec34ee9bd75e55f7c3e45
